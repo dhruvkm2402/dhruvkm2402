@@ -22,7 +22,7 @@ Greetings! I'm Dhruv Mehta, a passionate Ph.D. candidate at the prestigious Clem
 My primary focus is motion planning and control of actively articulated wheeled systems, particularly wheeled-leg configurations. In my research, I seek to push the boundaries of autonomy by integrating model-based and reinforcement learning techniques. By blending these methodologies, I aim to enhance autonomous vehicles' and robots' intelligence and decision-making capabilities.
 
 ### My Interests:
-I am deeply fascinated by the development of an end-to-end sim2real pipeline. Such a pipeline could revolutionize the deployment of autonomous vehicles and robots by bridging the gap between simulated environments and real-world challenges. My goal is to contribute to the advancement of this technology and create a positive impact on society.
+The potential of autonomous robots and vehicles to address diverse real-world challenges captivates me. I am dedicated to developing solutions that positively impact our environment and lifestyle.
 
 ### Collaboration and Contributions:
 Collaboration is the cornerstone of innovation, and I firmly believe in the power of teamwork. I am always open to collaborating with like-minded individuals and teams to tackle challenging problems with autonomy. Together, we can pool our expertise and create novel solutions that shape the future of autonomous systems.
